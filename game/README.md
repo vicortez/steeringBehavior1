@@ -1,1 +1,3 @@
-"# steeringBehavior1" 
+
+Demo at vicortez.github.io/steeringBehaviors/game
+PLAY ON GOOGLE CHROME. for some reason besides bad implementation, firefox is slower.

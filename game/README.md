@@ -1,3 +1,3 @@
 
-<p>Demo at <a href = vicortez.github.io/steeringBehaviors/game>vicortez.github.io/steeringBehaviors/game<a/><p/>
+<p>Demo at <a href = https://vicortez.github.io/steeringBehavior1/game/>https://vicortez.github.io/steeringBehavior1/game/<a/><p/>
 PLAY ON GOOGLE CHROME. for some reason besides bad implementation, firefox is slower.

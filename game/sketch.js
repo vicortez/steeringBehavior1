@@ -53,6 +53,7 @@ function draw() {
             wrong.play();
             noLoop();
             music.stop();
+			cursor();
         }
     }
     for(var i = 0; i<runnerVehicles.length; i++){

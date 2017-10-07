@@ -15,11 +15,11 @@ var collected = 0;
 
 function preload() {
     wrong = loadSound('ops.mp3');
-    wrong.setVolume(0.7);
+    wrong.setVolume(0.6);
     coin = loadSound("coin.mp3");
-    coin.setVolume(0.8);
+    coin.setVolume(0.7);
     music = loadSound("rag.mp3");
-    music.setVolume(0.4);
+    music.setVolume(0.2);
     font = loadFont('SteelworksVintage.otf');
 }
 

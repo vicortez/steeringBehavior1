@@ -1,4 +1,4 @@
-"# steeringBehavior1" 
+## steering Behavior
 <p>small javascript algorithm prototype that shows both "seek" and "separate" steering behaviors. <p/>
 <p>inspired by Mr. Craig Reynolds and Mr Daniel Shiffman<p/>
 

@@ -5,3 +5,5 @@
 
 <p>Demo at <a href = https://vicortez.github.io/steeringBehavior1/game/>https://vicortez.github.io/steeringBehavior1/game/<a/><p/>
 Better on Google Chrome.
+
+update: google chrome has changed their audio policy and until fixed, there is no audio on that browser.
